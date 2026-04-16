@@ -14,3 +14,9 @@ A real-time digital clock built using **HTML, CSS, and JavaScript**.
 ### Live Demo  
 Check out the live version of this project:  
 🔗https://digital-watch-lemon.vercel.app/
+
+---
+
+### Author
+
+#### Keerthana S
